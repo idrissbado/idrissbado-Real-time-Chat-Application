@@ -29,5 +29,5 @@ ChatPulse is a modern, real-time messaging application built with Next.js and Re
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-organization/chatpulse.git
-cd chatpulse
+git clone https://github.com/idrissbado/idrissbado-Real-time-Chat-Application.git
+cd idrissbado-Real-time-Chat-Application
