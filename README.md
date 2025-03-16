@@ -1,6 +1,7 @@
 # ChatPulse - Real-time Messaging Application
 
-![ChatPulse Logo](https://placeholder.svg?height=100&width=300&text=ChatPulse)
+![image](https://github.com/user-attachments/assets/20e024d1-8845-438b-98e7-dbca8b83040f)
+
 
 ## 📱 Project Overview
 
